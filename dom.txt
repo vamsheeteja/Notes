@@ -1,0 +1,4 @@
+DOM 
+structured representation of html documents allows js to access html elements and styles to manipulate them.
+
+DOM is automatically created by the browser as soon as the html page is loaded, and it is stored in the form of a tree structure.
